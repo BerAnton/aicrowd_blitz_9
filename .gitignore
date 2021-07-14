@@ -1,0 +1,19 @@
+# Data file
+/task_1_emotion_detection/data/
+/task_2_research_paper_classifier/data/
+/task_3_deshuffling_text/data/
+/task_4_feature_engineering/data/
+/task_5_sound_prediction/data/
+
+# Jupyter NB Checkpoints
+.ipynb_checkpoints/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Pretrained models
+/task_2_research_paper_classifier/research_paper_bert.pt
+
+# Python envs
+.venv
